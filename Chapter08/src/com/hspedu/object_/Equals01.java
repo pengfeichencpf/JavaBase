@@ -50,4 +50,5 @@ public class Equals01 {
 }
 class A extends B {}
 
+
 class B {}
